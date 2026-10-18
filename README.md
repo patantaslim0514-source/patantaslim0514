@@ -1,1 +1,18 @@
-# patantaslim0514
+# 💫 About Me:
+# Hi, I'm Taslim 👋<br><br>🎓 B.Tech Student | Computer Science & Artificial Intelligence  <br>💻 Aspiring Software Developer | AI/ML Enthusiast<br><br>I'm a passionate learner who loves exploring new technologies, building projects, and solving real-world problems through code. I'm currently improving my skills in software development, artificial intelligence, and machine learning while working on practical projects.<br><br>### 🚀 About Me<br>- 🌱 Currently learning **Python, Java, React, and AI/ML**<br>- 💻 Building projects in **Web Development and Artificial Intelligence**<br>- 🧠 Practicing Data Structures and Algorithms<br>- 🔭 Interested in creating innovative, user-friendly applications<br>- 🎯 Goal: Become a skilled Software Engineer and AI Developer<br>- 🤝 Open to learning, collaboration, and exciting opportunities<br><br>### 🛠️ Technologies & Tools<br>- **Languages:** Python, Java, JavaScript<br>- **Frontend:** HTML, CSS, React<br>- **Tools:** Git, GitHub, VS Code<br>- **Interests:** AI/ML, Full-Stack Development, Problem Solving<br><br>### 📌 My Motto<br>*Learning, Building, Growing — one project at a time!*<br><br>📫 Let's connect and grow together!
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=patantaslim0514-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=patantaslim0514-source&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=patantaslim0514-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=patantaslim0514-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=patantaslim0514-source&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
